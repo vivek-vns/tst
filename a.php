@@ -1,9 +1,10 @@
 <?php
 
-	echo "variant_idiv(left, right)";
-	
-	echo "vivek";
+ if($a>0){
+ 	$a = 4+5;
+ 	$b = 10-2;
+ }
 
-	echo "vivek-3";
-
-	echo "vivek-1";
+ if($g>90) {
+ 	$FG = 6+20;
+ }
