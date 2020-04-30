@@ -1,17 +1,18 @@
 <?php
 
- if($a>0){
- 	$a = 4+5;
-  $p = 90 + 90;
-  // branch mearging
-  // rummy
- 	$b = 10-2;
- }
+ $h = 90 + 90;
+ $s = 90 + 98;
+ $a = 98 + 9;
+ $z = 9 + 2;
 
-//this is testing line-1
+ $x = 100 +200;
+
 
  if($g>90) {
  	$FG = 6+20;
  }
  $a = 12 + 12;
-// this is testing line -2
+
+ $g = 4 + 4;
+ $p = 9 + 9;
+ ?>
