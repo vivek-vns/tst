@@ -13,4 +13,5 @@
  if($g>90) {
  	$FG = 6+20;
  }
+ $a = 12 + 12;
 // this is testing line -2
